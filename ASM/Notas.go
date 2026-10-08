@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	// 1. Array bidimensional de 6 estudiantes y 4 notas
+
 	notas := [6][4]float64{
 		{8.5, 9.0, 7.5, 8.0},
 		{6.0, 7.5, 8.0, 9.0},
