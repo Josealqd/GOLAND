@@ -49,7 +49,7 @@ func main() {
 		fmt.Printf("%s: %d votos\n", actividad, cantidad)
 	}
 
-	// Llamar a la función del paso 5
+
 	ganador := sacarGanador(votos)
 	fmt.Printf("\nLa actividad con más votos fue: %s\n", ganador)
 }
